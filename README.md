@@ -11,6 +11,9 @@ Este Projeto foi desenvolvido como requisito para aprovação na Sprint 4 do Boo
 💡O Projeto consistiu em ajudar uma empresa a otimizar suas despesas com marketing.<br>
 Foi necessário calcular métricas e realizar relatórios.
 
+**Sugestões para o futuro:** <br>
+Padronizar as visualizações dos gráficos.
+
 **Arquivos do Projeto:**
 - Projeto_sprint8.ipynb (caderno Jupyter)
 - visits_log_us.csv (dataset)
